@@ -6,4 +6,4 @@ Git.
 Git add
 Creating a new branch is quick.
 Creating.
-New branch
+New branch.
