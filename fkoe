@@ -1,0 +1,126 @@
+*   [33mcommit 6673c070f45a326038d4282e442d7b1ee8560697[m
+[31m|[m[32m\[m  Merge: e38329c a6d4191
+[31m|[m [32m|[m Author: gilberthon <gilbert.95.hon@gmail.com>
+[31m|[m [32m|[m Date:   Fri Mar 2 13:45:10 2018 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     conflict fix
+[31m|[m [32m|[m   
+[31m|[m * [33mcommit a6d4191444760968982ed34bdb7f4381a7b32ebc[m
+[31m|[m [32m|[m Author: gilberthon <gilbert.95.hon@gmail.com>
+[31m|[m [32m|[m Date:   Thu Mar 1 18:08:35 2018 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     and simple
+[31m|[m [32m|[m   
+* [32m|[m [33mcommit e38329cdf8304bafa680eeedc9726883b1995246[m
+[32m|[m[32m/[m  Author: gilberthon <gilbert.95.hon@gmail.com>
+[32m|[m   Date:   Thu Mar 1 18:10:04 2018 +0800
+[32m|[m   
+[32m|[m       & simple
+[32m|[m  
+* [33mcommit ce94726177fe9c5c3ec9a822046102a698dbb1c9[m
+[32m|[m Author: gilberthon <gilbert.95.hon@gmail.com>
+[32m|[m Date:   Thu Mar 1 16:45:52 2018 +0800
+[32m|[m 
+[32m|[m     add poiit
+[32m|[m  
+* [33mcommit a1e9ce762f18b89754164bc1ad13e37cc4e26e02[m
+[32m|[m Author: gilberthon <gilbert.95.hon@gmail.com>
+[32m|[m Date:   Thu Mar 1 16:43:13 2018 +0800
+[32m|[m 
+[32m|[m     add new branch
+[32m|[m  
+* [33mcommit cea7b831c58fabdbd6c39eecd43d068ac4679bbf[m
+[32m|[m Author: gilberthon <gilbert.95.hon@gmail.com>
+[32m|[m Date:   Thu Mar 1 16:39:19 2018 +0800
+[32m|[m 
+[32m|[m     branch 2
+[32m|[m  
+* [33mcommit 5cd9be6b71f5d5944f913ca0a480f091b9295999[m
+[32m|[m Author: gilberthon <gilbert.95.hon@gmail.com>
+[32m|[m Date:   Thu Mar 1 16:35:11 2018 +0800
+[32m|[m 
+[32m|[m     new branch
+[32m|[m  
+* [33mcommit dfd934462cbf01afe7ef99ffca237d7c12406678[m
+[32m|[m Author: gilberthon <gilbert.95.hon@gmail.com>
+[32m|[m Date:   Thu Mar 1 15:55:55 2018 +0800
+[32m|[m 
+[32m|[m     del temp.txt
+[32m|[m  
+* [33mcommit 49b550ee559ce6b75b088ce180fe83d3f8422dc3[m
+[32m|[m Author: gilberthon <gilbert.95.hon@gmail.com>
+[32m|[m Date:   Thu Mar 1 15:53:10 2018 +0800
+[32m|[m 
+[32m|[m     add temp.txt
+[32m|[m  
+* [33mcommit ba169723aea303d5f9849c60c94dfb6acdfa7c18[m
+[32m|[m Author: gilberthon <gilbert.95.hon@gmail.com>
+[32m|[m Date:   Thu Mar 1 15:14:00 2018 +0800
+[32m|[m 
+[32m|[m     add ND
+[32m|[m  
+* [33mcommit a479aa3b4b1bc6a6470a7f3b00ac0a04a717e8f4[m
+[32m|[m Author: gilberthon <gilbert.95.hon@gmail.com>
+[32m|[m Date:   Wed Feb 28 17:25:06 2018 +0800
+[32m|[m 
+[32m|[m     del t.txt
+[32m|[m  
+* [33mcommit 0252b3ebe48a60091a74d7d2a64d563e12c2292d[m
+[32m|[m Author: gilberthon <gilbert.95.hon@gmail.com>
+[32m|[m Date:   Wed Feb 28 17:21:06 2018 +0800
+[32m|[m 
+[32m|[m      add t.txt
+[32m|[m  
+* [33mcommit 14fe55f970ebb425d870a5f871a6b5cc81846349[m
+[32m|[m Author: gilberthon <gilbert.95.hon@gmail.com>
+[32m|[m Date:   Wed Feb 28 16:43:55 2018 +0800
+[32m|[m 
+[32m|[m     add Git add
+[32m|[m  
+* [33mcommit 5e37c149dc131b9be981995ab9b0458f80fd2974[m
+[32m|[m Author: gilberthon <gilbert.95.hon@gmail.com>
+[32m|[m Date:   Wed Feb 28 16:42:36 2018 +0800
+[32m|[m 
+[32m|[m     add .
+[32m|[m  
+* [33mcommit cfaa43ac12f92f7416f9e95df0e8d7500cb8cd8c[m
+[32m|[m Author: gilberthon <gilbert.95.hon@gmail.com>
+[32m|[m Date:   Wed Feb 28 16:41:50 2018 +0800
+[32m|[m 
+[32m|[m     add Git
+[32m|[m  
+* [33mcommit 60bac779f3a4d7f8d3af79a514f78756d46905f4[m
+[32m|[m Author: gilberthon <gilbert.95.hon@gmail.com>
+[32m|[m Date:   Wed Feb 28 16:35:08 2018 +0800
+[32m|[m 
+[32m|[m     append files
+[32m|[m  
+* [33mcommit c2af06948e1d543ee07556e21524ef5cd21c9b19[m
+[32m|[m Author: gilberthon <gilbert.95.hon@gmail.com>
+[32m|[m Date:   Wed Feb 28 16:32:23 2018 +0800
+[32m|[m 
+[32m|[m     git tracks changes
+[32m|[m  
+* [33mcommit e9be3dd3e5552935c7da5d605d54ccb940d841ff[m
+[32m|[m Author: gilberthon <gilbert.95.hon@gmail.com>
+[32m|[m Date:   Wed Feb 28 16:05:41 2018 +0800
+[32m|[m 
+[32m|[m     understand how stage works
+[32m|[m  
+* [33mcommit ffbfde8049486e198c56b901fc43c789925d8958[m
+[32m|[m Author: gilberthon <gilbert.95.hon@gmail.com>
+[32m|[m Date:   Wed Feb 28 15:39:37 2018 +0800
+[32m|[m 
+[32m|[m     append GPL
+[32m|[m  
+* [33mcommit dc80c4240530fcf403492eaae5744a6fc3efe12c[m
+[32m|[m Author: gilberthon <gilbert.95.hon@gmail.com>
+[32m|[m Date:   Wed Feb 28 15:36:53 2018 +0800
+[32m|[m 
+[32m|[m     add a distributed
+[32m|[m  
+* [33mcommit b9fc75b0443ca34233c76b2a110f8c339c53affc[m
+  Author: gilberthon <gilbert.95.hon@gmail.com>
+  Date:   Wed Feb 28 15:32:59 2018 +0800
+  
+      wrote a readme file
